@@ -1,0 +1,35 @@
+name: GitHub Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # يوميًا منتصف الليل
+  workflow_dispatch:       # يمكن تشغيله يدويًا من GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Generate GitHub Contribution Snake
+        run: |
+          npm install -g github-contributions-canvas
+          mkdir -p output
+          github-contributions-canvas --dark --output ./output/github-contribution-grid-snake-dark.svg
+
+      - name: Commit & Push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output/github-contribution-grid-snake-dark.svg
+          git commit -m "Update GitHub Contribution Snake"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
