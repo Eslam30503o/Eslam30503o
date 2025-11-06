@@ -102,10 +102,6 @@ public:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eslam30503o&theme=radical&hide_border=true&background=0D1117&stroke=00F2FE&ring=00F2FE&fire=FF6B6B&currStreakLabel=00F2FE" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eslam30503o&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00F2FE&line=4FACFE&point=00F2FE" width="100%"/>
 </div>
 
@@ -295,7 +291,7 @@ gantt
 
 <div align="center">
   
-![Snake animation](https://github.com/eslam30503o/eslam30503o/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/eslam30503o/eslam30503o/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
 </div>
 
@@ -309,7 +305,7 @@ gantt
 
 &cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00f2fe&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?u314mgijoghhoxksb2gkf7ax3btye
 
-D&redirect=true)
+&redirect=true)
 
 </div>
 
@@ -319,19 +315,6 @@ D&redirect=true)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/eslam30503o/eslam30503o/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
-
-<br>
-
-## 💖 **Support My Work**
-
-<div align="center">
-
-If you like what I do, maybe consider buying me a coffee ☕
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourprofile)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yourprofile)
-
 </div>
 
 <br>
