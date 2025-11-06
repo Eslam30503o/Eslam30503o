@@ -203,28 +203,24 @@ gantt
 
 <br>
 
-## 🎨 **Skills Visualization**
+## 🎨 Skills Visualization
 
-<div align="center">
+**Languages:** C, C++, Python, C#, Embedded C  
+**Embedded Systems & IoT:** Arduino, RTOS, Microcontrollers, IoT  
+**Tools:** Git, CMake, VS Code, Visual Studio  
+**Databases:** MySQL, Firebase  
+**AI & ML:** OpenCV, Pandas, Data Analysis  
+**Cloud:** Google Cloud, Firebase  
 
-const skills = {
-  languages: ['C', 'C++', 'Python', 'C#', 'Embedded C'],
-  embedded: ['Arduino', 'RTOS', 'Microcontrollers', 'IoT'],
-  tools: ['Git', 'CMake', 'VS Code', 'Visual Studio'],
-  databases: ['MySQL', 'Firebase'],
-  ai_ml: ['OpenCV', 'Pandas', 'Data Analysis'],
-  cloud: ['Google Cloud', 'Firebase'],
-  
-  passion: '∞',
-  coffee_consumed: 'countless cups ☕',
-  bugs_fixed: 'more than created! 🐛',
-  learning_mode: 'always_on 🚀'
-};
+**Fun Stats:**  
+- Passion: ∞  
+- Coffee consumed: countless cups ☕  
+- Bugs fixed: more than created 🐛  
+- Learning mode: always_on 🚀
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
-</div>
-
-<br>
 
 ## 🌟 **Projects Showcase**
 
