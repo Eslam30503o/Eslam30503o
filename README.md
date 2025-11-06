@@ -55,8 +55,8 @@
 ### 🚀 My GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EslamGamal&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EslamGamal&theme=tokyonight" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Eslam30503o&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eslam30503o&theme=tokyonight" alt="GitHub Streak" height="180"/>
 </p>
 
 ---
@@ -65,12 +65,12 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-link/" target="_blank">
-    <img src="https://img.shields.io/badge/-Eslam%2030503خ-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Eslam%2030503o-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/EslamGamal">
+  <a href="https://github.com/Eslam30503o">
     <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github"/>
   </a>
 </p>
@@ -78,5 +78,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EslamGamal&label=Profile%20Views&color=blue&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Eslam30503o&label=Profile%20Views&color=blue&style=flat-square" alt="Profile views"/>
 </p>
