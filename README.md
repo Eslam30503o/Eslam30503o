@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=eslamgamal&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/eslamgamal?label=Followers&style=for-the-badge&color=00F2FE" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=eslam30503o&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/eslam30503o?label=Followers&style=for-the-badge&color=00F2FE" alt="Followers"/>
   <img src="https://img.shields.io/badge/Focus-Embedded%20Systems-red?style=for-the-badge" alt="Focus"/>
 </div>
 
@@ -101,16 +101,16 @@ public:
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eslamgamal&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamgamal&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F2FE"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eslam30503o&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslam30503o&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F2FE"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eslamgamal&theme=radical&hide_border=true&background=0D1117&stroke=00F2FE&ring=00F2FE&fire=FF6B6B&currStreakLabel=00F2FE" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eslam30503o&theme=radical&hide_border=true&background=0D1117&stroke=00F2FE&ring=00F2FE&fire=FF6B6B&currStreakLabel=00F2FE" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eslamgamal&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00F2FE&line=4FACFE&point=00F2FE" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eslam30503o&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00F2FE&line=4FACFE&point=00F2FE" width="100%"/>
 </div>
 
 <br>
@@ -118,7 +118,7 @@ public:
 ## 🏆 **GitHub Trophies**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eslamgamal&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=eslam30503o&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%"/>
 </div>
 
 <br>
@@ -146,7 +146,6 @@ mindmap
       Real-Time Systems
       IoT Devices
 
-
 </div>
 
 <br>
@@ -162,18 +161,19 @@ gantt
     Software Architecture :2022, 2024
     System Design Master  :2024, 2025
 
+
 <br>
 
 ## 🔥 **Contribution Graph**
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eslamgamal&theme=radical" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eslam30503o&theme=radical" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eslamgamal&theme=radical" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eslamgamal&theme=radical" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eslamgamal&theme=radical" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eslam30503o&theme=radical" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eslam30503o&theme=radical" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eslam30503o&theme=radical" width="32%"/>
 </div>
 
 <br>
@@ -222,8 +222,8 @@ const skills = {
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eslamgamal&repo=project1&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/eslamgamal/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eslamgamal&repo=project2&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/eslamgamal/project2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eslam30503o&repo=project1&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/eslam30503o/project1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eslam30503o&repo=project2&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/eslam30503o/project2)
 
 </div>
 
@@ -235,7 +235,7 @@ const skills = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eslamgamal)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eslam30503o)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
@@ -255,7 +255,7 @@ const skills = {
 
 <div align="center">
   
-![Snake animation](https://github.com/eslamgamal/eslamgamal/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/eslam30503o/eslam30503o/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -274,7 +274,7 @@ const skills = {
 ## 🐍 **Watch my Contributions Snake Eat Them All!**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/eslamgamal/eslamgamal/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/eslam30503o/eslam30503o/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 <br>
@@ -304,7 +304,7 @@ If you like what I do, maybe consider buying me a coffee ☕
 
 <br>
 
-### ⭐️ From [Eslam Gamal](https://github.com/eslamgamal) with 💙
+### ⭐️ From [Eslam Gamal](https://github.com/eslam30503o) with 💙
 
 <br>
 
