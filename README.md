@@ -242,13 +242,16 @@ gantt
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
 
+</div>
+
+
 ### **Fun Stats**
 - Passion: ∞  
 - Coffee consumed: countless cups ☕  
 - Bugs fixed: more than created 🐛  
 - Learning mode: always_on 🚀
 
-</div>
+
 
 
 
