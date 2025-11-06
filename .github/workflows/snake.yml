@@ -1,40 +1,31 @@
-name: GitHub Contributions Snake
+name: Generate Snake Animation
 
-# يشغّل كل يوم أو يدويًا
 on:
   schedule:
-    - cron: '0 0 * * *' # كل يوم منتصف الليل
-  workflow_dispatch: # لتشغيله يدويًا من تبويب Actions
+    - cron: '0 0 * * *'     # كل يوم عند منتصف الليل
+  workflow_dispatch:        # تقدر تشغّله يدويًا
 
 jobs:
-  generate-snake:
+  build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write       # ضروري علشان يقدر يدفع التغييرات
 
     steps:
-      # 1️⃣ نسخ المستودع
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # 2️⃣ تثبيت Python (مطلوب لتشغيل سكريبت الـ Snake)
-      - name: Setup Python
-        uses: actions/setup-python@v4
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
-          python-version: '3.x'
-
-      # 3️⃣ توليد الـ contributions snake
-      - name: Generate GitHub Contributions Snake
-        run: |
-          pip install github-contributions-snake
-          mkdir -p output
-          github-contributions-snake --output output/github-contribution-grid-snake-dark.svg --theme dark
-
-      # 4️⃣ رفع التغييرات على الريبو
-      - name: Commit & Push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/github-contribution-grid-snake-dark.svg
-          git commit -m "Update contributions snake"
-          git push
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Push output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
