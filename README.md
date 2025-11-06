@@ -283,7 +283,7 @@ gantt
 </div>
 
 <br>
-
+ 
 ## 📈 **Coding Activity**
 
 <!--START_SECTION:waka-->
