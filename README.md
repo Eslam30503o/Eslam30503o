@@ -14,6 +14,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
+## 👨‍💻 About Me
+
 class EslamGamal {
 private:
     string name = "Eslam Gamal";
@@ -36,8 +38,7 @@ public:
     }
     
     string getMission() {
-        return "Building efficient, scalable, and reliable solutions "
-               "that bridge hardware and software!";
+        return "Building efficient, scalable, and reliable solutions that bridge hardware and software!";
     }
 };
 
@@ -50,7 +51,7 @@ public:
   <img src="https://readme-quotes.vercel.app/api?type=horizontal&theme=radical&quote=Building%20the%20future%2C%20one%20line%20of%20code%20at%20a%20time&author=Eslam%20Gamal" alt="Quote"/>
 </div>
 
-> 💡 **Bridging the gap between hardware and software** to create innovative solutions that power the future of technology.
+> 💡 Bridging the gap between hardware and software** to create innovative solutions that power the future of technology.
 
 <br>
 
@@ -122,6 +123,18 @@ public:
 </div>
 
 <br>
+
+
+
+## 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EslamGamal1066@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eslam30503o)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://beamish-strudel-bd06d8.netlify.app/)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/314mgijoghhoxksb2gkf7ax3btye)
+
+---
 
 ## 📚 **Learning Journey**
 
@@ -315,3 +328,7 @@ If you like what I do, maybe consider buying me a coffee ☕
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
+
+
+
+
