@@ -31,13 +31,10 @@ public:
         };
     }
     
-    string getFunFact() {
-        return "I can spend hours debugging a single line... and LOVE it! 🐛💙";
-    }
-    
-    string getMission() {
-        return "Building efficient, scalable, and reliable solutions that bridge hardware and software!";
-    }
+  **Fun Fact:** I can spend hours debugging a single line... and LOVE it! 🐛💙  
+  
+  **Mission:** Building efficient, scalable, and reliable solutions that bridge hardware and software!
+
 };
 
 
