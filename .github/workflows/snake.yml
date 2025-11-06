@@ -1,33 +1,40 @@
 name: GitHub Contributions Snake
 
+# يشغّل كل يوم أو يدويًا
 on:
   schedule:
-    - cron: '0 0 * * *' # يوميًا عند منتصف الليل
-  workflow_dispatch:
+    - cron: '0 0 * * *' # كل يوم منتصف الليل
+  workflow_dispatch: # لتشغيله يدويًا من تبويب Actions
 
 jobs:
-  build:
+  generate-snake:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      # 1️⃣ نسخ المستودع
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    - name: Setup Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: '18'
+      # 2️⃣ تثبيت Python (مطلوب لتشغيل سكريبت الـ Snake)
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
 
-    - name: Install dependencies
-      run: npm install -g github-contributions-snake
+      # 3️⃣ توليد الـ contributions snake
+      - name: Generate GitHub Contributions Snake
+        run: |
+          pip install github-contributions-snake
+          mkdir -p output
+          github-contributions-snake --output output/github-contribution-grid-snake-dark.svg --theme dark
 
-    - name: Generate contributions snake
-      run: github-contributions-snake --user eslam30503o --output ./output/github-contribution-grid-snake-dark.svg --theme dark
-
-    - name: Commit & Push
-      run: |
-        git config --local user.name "github-actions[bot]"
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git add ./output/github-contribution-grid-snake-dark.svg
-        git commit -m "Update contributions snake"
-        git push
+      # 4️⃣ رفع التغييرات على الريبو
+      - name: Commit & Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/github-contribution-grid-snake-dark.svg
+          git commit -m "Update contributions snake"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
