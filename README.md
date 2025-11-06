@@ -291,8 +291,7 @@ gantt
 
 <div align="center">
   
-<img src="https://raw.githubusercontent.com/eslam30503o/eslam30503o/main/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-
+<img src="https://raw.githubusercontent.com/eslam30503o/eslam30503o/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
 </div>
 
