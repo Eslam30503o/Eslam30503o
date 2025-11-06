@@ -12,15 +12,16 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="300" style="max-width: 100%;" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
+```cpp
 class EslamGamal {
 private:
     string name = "Eslam Gamal";
     string role = "Software & Embedded Systems Engineer";
     string education = "Akhbar Elyom Academy";
     int experience_since = 2019;
-    
+
 public:
     vector<string> getCurrentFocus() {
         return {
@@ -30,15 +31,16 @@ public:
             "System Architecture & Low-Level Programming"
         };
     }
-    
+
     string getFunFact() {
-          return "I can spend hours debugging a single line... and LOVE it! 🐛💙";
-      }
-      
+        return "I can spend hours debugging a single line... and LOVE it! 🐛💙";
+    }
+
     string getMission() {
-          return "Building efficient, scalable, and reliable solutions that bridge hardware and software!";
-      }  
+        return "Building efficient, scalable, and reliable solutions that bridge hardware and software!";
+    }
 };
+
 
 
 <br>
