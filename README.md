@@ -31,13 +31,13 @@ public:
         };
     }
     
-  string getFunFact() {
-        return "I can spend hours debugging a single line... and LOVE it! 🐛💙";
-    }
-    
-  string getMission() {
-        return "Building efficient, scalable, and reliable solutions that bridge hardware and software!";
-    }  
+    string getFunFact() {
+          return "I can spend hours debugging a single line... and LOVE it! 🐛💙";
+      }
+      
+    string getMission() {
+          return "Building efficient, scalable, and reliable solutions that bridge hardware and software!";
+      }  
 };
 
 
@@ -49,7 +49,7 @@ public:
   <img src="https://readme-quotes.vercel.app/api?type=horizontal&theme=radical&quote=Building%20the%20future%2C%20one%20line%20of%20code%20at%20a%20time&author=Eslam%20Gamal" alt="Quote"/>
 </div>
 
-> 💡 Bridging the gap between hardware and software** to create innovative solutions that power the future of technology.
+> 💡 **Bridging the gap between hardware and software** to create innovative solutions that power the future of technology.
 
 <br>
 
