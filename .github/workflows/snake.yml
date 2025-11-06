@@ -1,35 +1,33 @@
-name: GitHub Snake
+name: GitHub Contributions Snake
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # يوميًا منتصف الليل
-  workflow_dispatch:       # يمكن تشغيله يدويًا من GitHub
+    - cron: '0 0 * * *' # يوميًا عند منتصف الليل
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '18'
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
 
-      - name: Generate GitHub Contribution Snake
-        run: |
-          npm install -g github-contributions-canvas
-          mkdir -p output
-          github-contributions-canvas --dark --output ./output/github-contribution-grid-snake-dark.svg
+    - name: Install dependencies
+      run: npm install -g github-contributions-snake
 
-      - name: Commit & Push changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add output/github-contribution-grid-snake-dark.svg
-          git commit -m "Update GitHub Contribution Snake"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Generate contributions snake
+      run: github-contributions-snake --user eslam30503o --output ./output/github-contribution-grid-snake-dark.svg --theme dark
+
+    - name: Commit & Push
+      run: |
+        git config --local user.name "github-actions[bot]"
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git add ./output/github-contribution-grid-snake-dark.svg
+        git commit -m "Update contributions snake"
+        git push
