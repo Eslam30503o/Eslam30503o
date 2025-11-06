@@ -260,8 +260,10 @@ gantt
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eslam30503o&repo=project1&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/eslam30503o/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eslam30503o&repo=project2&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/eslam30503o/project2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eslam30503o&repo=project1&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/eslam30503o/espcode.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eslam30503o&repo=project2&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/eslam30503o/Eshraqa-Center)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eslam30503o&repo=project2&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/eslam30503o/eurotools-updater)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eslam30503o&repo=project2&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/eslam30503o/WareHouse_version_1.0.0)
 
 </div>
 
