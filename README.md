@@ -14,7 +14,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```cpp
 class EslamGamal {
 private:
     string name = "Eslam Gamal";
@@ -41,7 +40,7 @@ public:
                "that bridge hardware and software!";
     }
 };
-```
+
 
 <br>
 
@@ -128,7 +127,6 @@ public:
 
 <div align="center">
 
-```mermaid
 mindmap
   root((Eslam Gamal))
     Software Development
@@ -147,7 +145,7 @@ mindmap
       Embedded Applications
       Real-Time Systems
       IoT Devices
-```
+
 
 </div>
 
@@ -155,7 +153,6 @@ mindmap
 
 ## 🎯 **Experience Timeline**
 
-```mermaid
 gantt
     title My Development Journey
     dateFormat YYYY
@@ -164,7 +161,6 @@ gantt
     Embedded Systems      :2020, 2022
     Software Architecture :2022, 2024
     System Design Master  :2024, 2025
-```
 
 <br>
 
@@ -203,7 +199,6 @@ gantt
 
 <div align="center">
 
-```typescript
 const skills = {
   languages: ['C', 'C++', 'Python', 'C#', 'Embedded C'],
   embedded: ['Arduino', 'RTOS', 'Microcontrollers', 'IoT'],
@@ -217,7 +212,7 @@ const skills = {
   bugs_fixed: 'more than created! 🐛',
   learning_mode: 'always_on 🚀'
 };
-```
+
 
 </div>
 
